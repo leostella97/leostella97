@@ -2,8 +2,10 @@
 
 <h2>:wave: Olá, me chamo Leonardo Stella</h2>
 <br>
-:birthday: Nascido em 1997 e natural do interior de São Paulo
+:notebook: Estudante de Ánalise e Desenvolvimento pela universidade FAM Faculdade das Américas
 <br>
 :video_game: Apaixonado por vídeo-game e tibiano nato!
 <br><br>
-xxx
+Apaixonado pela área da técnologia, certificado em UX/UX Designer, Red Hat Administration, Linux Experience e Cybersecurity.
+<br>
+
