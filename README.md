@@ -10,4 +10,4 @@
 
 #### "Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez." - Thomas Edson
 
-![Stats](https://github-readme-stats.vercel.app/api?username=leostella97&show_icons=true&count_private=true%theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api?username=leostella97&show_icons=true&count_private=true%theme=dark)
