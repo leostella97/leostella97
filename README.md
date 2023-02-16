@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Olá, me chamo Leonardo Stella</h1>
+<h1 style="color: blue;">Olá, me chamo Leonardo Stella</h1>
