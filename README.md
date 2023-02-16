@@ -8,4 +8,4 @@
 
 #### Apaixonado pela área da técnologia, certificado em UX/UI Designer, Red Hat Administration, Linux Experience e Cybersecurity.
 
-> "Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez." - Thomas Edson
+_ "Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez." - Thomas Edson
