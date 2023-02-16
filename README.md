@@ -8,4 +8,4 @@
 <br><br>
 Apaixonado pela área da técnologia, certificado em UX/UX Designer, Red Hat Administration, Linux Experience e Cybersecurity.
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leostella97)](https://github.com/leostella97/github-readme-stats)
+
