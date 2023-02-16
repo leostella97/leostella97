@@ -2,7 +2,7 @@
 
 <h2>:wave: Olá, me chamo Leonardo Stella</h2>
 <br>
-:notebook: Estudante de Ánalise e Desenvolvimento pela universidade FAM Faculdade das Américas
+:bookmark_tabs: Estudante de Ánalise e Desenvolvimento pela universidade FAM Faculdade das Américas
 <br>
 :video_game: Apaixonado por vídeo-game e tibiano nato!
 <br><br>
