@@ -8,5 +8,5 @@
 <br><br>
 Apaixonado pela área da técnologia, certificado em UX/UX Designer, Red Hat Administration, Linux Experience e Cybersecurity.
 <br>
-![Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=leostella97&show_icons=true&count_private=true)
 
