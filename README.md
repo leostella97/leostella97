@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <span style="color: blue;">Olá, me chamo Leonardo Stella</span>
+<br>
+Este é um texto em <span style="color:red">vermelho</span> e este é um texto em <span style="color:blue">azul</span>.
