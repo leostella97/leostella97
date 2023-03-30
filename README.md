@@ -6,9 +6,25 @@
 <br>
 <table>
 	<b>Conceitos</b>
-	<td><a href="https://github.com/leostella97/pythonconceitos">Python</a></td>
-	<td><a href="https://github.com/leostella97/conceitosbd">Banco de Dados</a></td>
-	<td><a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a></td>
+	<td>
+		<a href="https://github.com/leostella97/pythonconceitos">Python</a>
+	</td>
+	<td>
+		<a href="https://github.com/leostella97/conceitosbd">Banco de Dados</a>
+	</td>
+	<td>
+		<a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a>
+	</td>
+	<br>
+	<b>Resumos</b>
+	<tr>
+		<td>
+			<a href="https://github.com/leostella97/resumolivros/tree/main/C%C3%B3digo%20Limpo%20-%20Habilidades%20Praticas%20do%20Agile%20Software#c%C3%B3digo-limpo---habilidades-praticas-do-agile-software">Código Limpo - Habilidades Praticas do Agile Software</a>
+		</td>
+		<td>
+			<a href="https://github.com/leostella97/resumolivros/tree/main/Princ%C3%ADpios%20de%20linguagem%20de%20programa%C3%A7%C3%A3o">Princípios de linguagem de programação</a>
+		</td>
+	</tr>
 </table>
 
 <br><br><br>
