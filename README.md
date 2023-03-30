@@ -6,8 +6,9 @@
 
 #### Apaixonado pela área da técnologia, certificado em UX/UI Designer, Red Hat Administration, Linux Experience e Cybersecurity.
 
-<b>Conceitos</b>
+
 <table>
+	<b>Conceitos</b>
 	<td><a href="https://github.com/leostella97/pythonconceitos">Python</a></td>
 	<td><a href="https://github.com/leostella97/conceitosbd">Banco de Dados</a></td>
 	<td><a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a></td>
