@@ -13,6 +13,7 @@ Apaixonado pela área da técnologia, certificado em UX/UI Designer, Red Hat Adm
 	<td><a href="https://github.com/leostella97/conceitosbd">Banco de Dados</a></td>
 	<td><a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a></td>
 </table>
+
 <br><br><br>
 <i>"Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez."</i> - <b>Thomas Edson</b>
 <br><br>
