@@ -66,6 +66,6 @@
 </table>
 
 <br>
-<br><br>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=leostella97&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leostella97&layout=compact&theme=dark)
