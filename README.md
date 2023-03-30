@@ -15,7 +15,8 @@
 	<td>
 		<a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a>
 	</td>
-	<br>
+	</table>
+	<table>
 	<b>Resumos</b>
 	<tr>
 		<td>
