@@ -14,13 +14,11 @@ Apaixonado pela área da técnologia, certificado em UX/UI Designer, Red Hat Adm
 	<td><a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a></td>
 </table>
 
+
 <i>"Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez."</i> - <b>Thomas Edson</b>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=leostella97&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leostella97&layout=compact&theme=dark)
-
-r. O caminho mais certo de vencer é tentar mais uma vez."</i> - <b>Thomas Edson</b>
->>>>>>> a2f0cbb02d8a7d30911ddeb03f6c70ec3ad40afb
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=leostella97&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leostella97&layout=compact&theme=dark)
