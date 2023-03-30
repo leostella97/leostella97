@@ -19,15 +19,26 @@
 	<table>
 	<b>Resumos</b>
 	<tr>
-		<td>
-			<a href="https://github.com/leostella97/resumolivros/tree/main/C%C3%B3digo%20Limpo%20-%20Habilidades%20Praticas%20do%20Agile%20Software#c%C3%B3digo-limpo---habilidades-praticas-do-agile-software">Código Limpo - Habilidades Praticas do Agile Software</a>
-		</td>
+			<td>
+				<a href="https://github.com/leostella97/resumolivros/tree/main/C%C3%B3digo%20Limpo%20-%20Habilidades%20Praticas%20do%20Agile%20Software#c%C3%B3digo-limpo---habilidades-praticas-do-agile-software">Código Limpo - Habilidades Praticas do Agile Software</a>
+			</td>
 		</tr>
 		<tr>
-		<td>
-			<a href="https://github.com/leostella97/resumolivros/tree/main/Princ%C3%ADpios%20de%20linguagem%20de%20programa%C3%A7%C3%A3o">Princípios de linguagem de programação</a>
-		</td>
-	</tr>
+			<td>
+				<a href="https://github.com/leostella97/resumolivros/tree/main/Princ%C3%ADpios%20de%20linguagem%20de%20programa%C3%A7%C3%A3o">Princípios de linguagem de programação</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/leostella97/resumolivros/tree/main/Photoshop%20(experi%C3%AAncia%20pr%C3%B3pria)">Photoshop (experiência própria)</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="Scrum: A arte de fazer o dobro do trabalho na metade do tempo">Scrum: A arte de fazer o dobro do trabalho na metade do tempo</a>
+			</td>
+		</tr>
+
 </table>
 
 <br><br><br>
