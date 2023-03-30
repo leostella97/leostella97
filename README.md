@@ -4,9 +4,6 @@
 <br>
 :video_game: Apaixonado por vídeo-game e tibiano nato!
 <br>
-Apaixonado pela área da técnologia, certificado em UX/UI Designer, Red Hat Administration, Linux Experience e Cybersecurity.
-
-
 <table>
 	<b>Conceitos</b>
 	<td><a href="https://github.com/leostella97/pythonconceitos">Python</a></td>
