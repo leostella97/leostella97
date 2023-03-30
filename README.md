@@ -6,6 +6,13 @@
 
 #### Apaixonado pela área da técnologia, certificado em UX/UI Designer, Red Hat Administration, Linux Experience e Cybersecurity.
 
+<table>
+	<th>Conceitos</th>
+	<td><a href="https://github.com/leostella97/pythonconceitos">Python</a></td>
+	<td><a href="https://github.com/leostella97/conceitosbd">Banco de Dados</a></td>
+	<td><a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a></td>
+</table>
+
 #### "Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez." - Thomas Edson
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=leostella97&show_icons=true&count_private=true&theme=dark)
