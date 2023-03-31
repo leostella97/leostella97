@@ -16,6 +16,9 @@
 	<td>
 		<a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a>
 	</td>
+	<td>
+		<a href="https://github.com/leostella97/conceitosdevops">DevOps Conceitos</a>
+	</td>
 	</table>
 	<table>
 	<b>Resumos</b>
