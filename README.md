@@ -14,7 +14,7 @@
 		<a href="https://github.com/leostella97/conceitosbd">Banco de Dados</a>
 	</td>
 	<td>
-		<a href="https://github.com/leostella97/uxuiconceitos">UX/UI</a>
+		<a href="https://github.com/leostella97/uxuiconceitos">UX/UI Designer</a>
 	</td>
 	<td>
 		<a href="https://github.com/leostella97/conceitosdevops">DevOps</a>
