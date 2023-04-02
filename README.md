@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ## :wave: Olá, me chamo Leonardo Stella 
  
+=======
+## :wave: Olá, me chamo Leonardo Stella
+
+>>>>>>> dffe447c435d0d06af75e0bf17544e0d637ac970
 :bookmark_tabs: Ánalise e Desenvolvimento pela universidade FAM Faculdade das Américas
 <br>
 :video_game: Apaixonado por vídeo-game e tibiano nato!
