@@ -23,6 +23,9 @@
 	<td>
 		<a href="https://github.com/leostella97/cssconceitos">CSS</a>
 	</td>
+	<td>
+		<a href="https://github.com/leostella97/concomgit">Git</a>
+	</td>
 	</table>
 	<table>
 	<b>Resumos</b>
