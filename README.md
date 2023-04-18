@@ -4,7 +4,7 @@
 :mortar_board: Ánalise e Desenvolvimento pela universidade FAM Faculdade das Américas
 
 :space_invader: Apaixonado por vídeo-game e tibiano nato!
-<br><br>
+<br><br><br>
 <i>"Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez."</i> - <b>Thomas Edson</b>
 <table>
 	<b>Conceitos</b>
