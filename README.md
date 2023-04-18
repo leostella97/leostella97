@@ -2,9 +2,11 @@
 ## :wave: Olá, me chamo Leonardo Stella
 
 :man_technologist: Informática pela ETEC Centro Paula de Souza
+<br>
 :mortar_board: Ánalise e Desenvolvimento pela universidade FAM Faculdade das Américas
+<br>
 :space_invader: Apaixonado por vídeo-game e tibiano nato!
-<br><br><br>
+
 <i>"Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez."</i> - <b>Thomas Edson</b>
 <table>
 	<b>Conceitos</b>
