@@ -35,7 +35,7 @@
 	<table>
 	<b>Overview</b>
 	<td>
-		<a href="https://github.com/leostella97/pythonoverview">Python</a>
+		<a target="_blank" href="https://github.com/leostella97/pythonoverview">Python</a>
 	</td>
 	<td>
 		<a href="https://github.com/leostella97/sql-overview">SQL</a>
