@@ -111,4 +111,4 @@
 
 <br><br>
 
-<img src="https://github.com/leostella97/leostella97/blob/main/img/BuyMeACoffee.png?raw=true">
+<img width="250" src="https://github.com/leostella97/leostella97/blob/main/img/BuyMeACoffee.png?raw=true">
