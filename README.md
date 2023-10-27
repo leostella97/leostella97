@@ -117,10 +117,12 @@
 <br>
 2cdcd71d-ff6d-423d-ab14-ac39b703b737
 <br><br>
+
 <b>PIX Copia e Cola</b>
 <br>
 00020126580014BR.GOV.BCB.PIX01362cdcd71d-ff6d-423d-ab14-ac39b703b7375204000053039865802BR5925Leonardo Stella de Olivei6009SAO PAULO61080540900062240520X2XMXhOEphA7RuZ1ycm463040F05
 <br><br>
+
 <b>QR Code</b>
 <br>
 <img width="250" src="https://github.com/leostella97/leostella97/blob/main/img/qr-code.png?raw=true">
