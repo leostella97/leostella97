@@ -45,7 +45,7 @@
 	</td>
 	<td>
 		<a href="https://github.com/leostella97/software-architect">Software Architect</a>
-	</td>
+	</td> 
 	<td>
 		<a href="#">#</a>
 	</td>
