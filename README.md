@@ -1,4 +1,4 @@
- 
+
 ## :wave: Olá, me chamo Leonardo Stella
 
 :man_technologist: Informática pela ETEC Centro Paula de Souza
