@@ -47,7 +47,7 @@
 		<a href="https://github.com/leostella97/software-architect">Software Architect</a>
 	</td>
 	<td>
-		<a href="#">#</a>
+		<a href="#">DevOps</a>
 	</td>
 	<td>
 		<a href="#">#</a>
