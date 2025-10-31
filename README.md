@@ -41,7 +41,7 @@
 		<a href="https://github.com/leostella97/sql-overview">SQL</a>
 	</td>
 	<td>
-		<a href="https://github.com/leostella97/overview_git-github">Git HitHub</a>
+		<a href="https://github.com/leostella97/overview_git-github">Git GitHub</a>
 	</td>
 	<td>
 		<a href="https://github.com/leostella97/software-architect">Software Architect</a>
