@@ -1,9 +1,9 @@
 
 ## :wave: Olá, me chamo Leonardo Stella
 
-:man_technologist: Informática pela ETEC Centro Paula de Souza
+:man_technologist: Informática e Desenvolvimento de Sistemas pelo Centro Paula Souza
 <br>
-:mortar_board: Ánalise e Desenvolvimento pela universidade FAM Faculdade das Américas
+:mortar_board: Análise e Desenvolvimento de Sistemas pela universidade FAM Faculdade das Américas
 <br>
 :space_invader: Apaixonado por vídeo-game e tibiano nato!
 
